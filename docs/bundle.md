@@ -11,7 +11,7 @@ steps:
     * Run
      After you bundles are defined you can execute fuse.run() which will execute them all. A producer knows about the order, in a way it's an orchestrator
 
-The following diagramm illustrates the process:
+The following diagram illustrates the process:
 
 ```
 graph TB
